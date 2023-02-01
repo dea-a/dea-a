@@ -17,3 +17,7 @@
 - I Love ❤️ programming and testing
 - 📫 How to reach me: darya.a.lapteva@gmail.com
 - 📨 Telegram: @dea_la
+
+## ✨ My projects
+- [QA](https://github.com/dea-a/practicum-qa-projects)
+- [C++](https://github.com/dea-a/cpp-mython)
