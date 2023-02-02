@@ -20,4 +20,6 @@
 
 ## ✨ My projects
 - [QA](https://github.com/dea-a/practicum-qa-projects)
-- [C++](https://github.com/dea-a/cpp-mython)
+- C++:
+  - [Mython](https://github.com/dea-a/cpp-mython)
+  - [Spreadsheet](https://github.com/dea-a/cpp-spreadsheet)
